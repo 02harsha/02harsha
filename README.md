@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack development<br>👯 I’m looking to collaborate on open-source projects and web applications<br>🤝 I’m looking for help with scaling MERN applications and optimizing performance<br>🌱 I’m currently learning C# and dotnet <br>💬 Ask me about React, Node.js, MongoDB, and problem-solving<br>⚡ Fun fact I was a Semi-Finalist in Code Gladiators 2024 and love solving coding challenges!
+🔭 I’m currently working on backend development with .NET<br>👯 I’m looking to collaborate on open-source projects and web applications<br>🤝 I’m looking for help with scaling MERN applications and optimizing performance<br>🌱 I’m currently learning C# and dotnet <br>💬 Ask me about React, Node.js, MongoDB, and problem-solving<br>⚡ Fun fact I was a Semi-Finalist in Code Gladiators 2024 and love solving coding challenges!
 
 
 ## 🌐 Socials:
